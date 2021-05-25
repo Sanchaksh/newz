@@ -1,4 +1,4 @@
-# newz
+# Newz
 
 A new Flutter project.
 
