@@ -5,6 +5,7 @@ A Flutter news project using [News.org API](https://newsapi.org/)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+API use karna hai aur kya
 
 A few resources to get you started if this is your first Flutter project:
 
