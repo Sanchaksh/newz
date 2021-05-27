@@ -5,7 +5,7 @@ A Flutter news project using [News.org API](https://newsapi.org/)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
-Using RESTAPI and applying it's concepts nice.
+Using RESTAPI and applying it's concepts.
 
 A few resources to get you started if this is your first Flutter project:
 
