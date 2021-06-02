@@ -2,6 +2,8 @@
 
 A Flutter news project using [News.org API](https://newsapi.org/)
 
+# News App
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
