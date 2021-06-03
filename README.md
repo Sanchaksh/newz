@@ -1,6 +1,6 @@
 # Newz
 
-A Flutter news project using [News.org API](https://newsapi.org/)
+A news project using [News.org API](https://newsapi.org/) and Flutter.
 
 # News App
 
