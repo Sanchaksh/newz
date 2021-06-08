@@ -2,8 +2,6 @@
 
 A News Project using [News.org API](https://newsapi.org/) and Flutter.
 
-# News App
-
 Get all the lastest updates over at the application.
 
 ## Getting Started
