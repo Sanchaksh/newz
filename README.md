@@ -1,8 +1,6 @@
 # Newz
 
-A News Project using [News.org API](https://newsapi.org/) and Flutter.
-
-Get all the lastest updates over at the application.
+A News Project using [News.org API](https://newsapi.org/) and Flutter. Get all the lastest updates over at the application.
 
 ## Getting Started
 
