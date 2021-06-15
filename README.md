@@ -2,7 +2,7 @@
 
 A News Project using [News.org API](https://newsapi.org/) and Flutter. Get all the lastest updates over at the application.
 
-## Getting Started
+## Getting Started with the chat application. 
 
 This project is a starting point for a Flutter application.
 Using RESTAPI and applying it's concepts.
