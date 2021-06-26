@@ -1,4 +1,4 @@
-# Newz App
+# Newz Application
 
 A News Project using [News.org API](https://newsapi.org/) and Flutter. Get all the lastest updates over at the application.
 
